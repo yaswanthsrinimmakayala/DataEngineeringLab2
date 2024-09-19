@@ -1,0 +1,511 @@
+Farm ID,Location,Farm Size (Acres),Crop Type,Water Availability (mm),Soil Moisture (%),Precipitation Forecast (mm),Irrigation Need (mm),Risk Level,Decision Recommendation
+101,"40.7128, -74.0060",324,Wheat,189.0,42.0,42,24,Low,Irrigate lightly
+102,"34.0522, -118.2437",562,Soy,218.0,36.0,30,29,High,Irrigate as needed
+103,"29.7604, -95.3698",543,Corn,255.0,32.0,27,33,Medium,Increase water monitoring
+104,"41.8781, -87.6298",411,Barley,,45.0,38,33,High,Irrigate lightly
+105,"41.8781, -87.6298",110,Soy,137.0,47.0,26,21,Low,Monitor soil moisture
+106,"29.7604, -95.3698",465,Soy,298.0,52.0,21,21,Low,Irrigate as needed
+107,"41.8781, -87.6298",585,Corn,234.0,34.0,16,16,High,Irrigate as needed
+108,"41.8781, -87.6298",597,Wheat,149.0,56.0,47,28,Medium,Irrigate lightly
+109,"36.7783, -119.4179",314,Rice,116.0,50.0,21,14,High,Increase water monitoring
+110,"34.0522, -118.2437",358,Soy,254.0,46.0,42,15,Low,Increase irrigation
+111,"36.7783, -119.4179",385,Rice,195.0,40.0,17,32,Medium,Increase water monitoring
+112,"36.7783, -119.4179",262,Barley,168.0,35.0,12,32,Low,Irrigate as needed
+113,"41.8781, -87.6298",346,Soy,135.0,53.0,38,10,High,Increase water monitoring
+114,"29.7604, -95.3698",321,Wheat,,34.0,10,35,Low,Irrigate as needed
+115,"40.7128, -74.0060",560,Corn,139.0,41.0,48,10,Medium,Increase irrigation
+116,"29.7604, -95.3698",244,Corn,181.0,59.0,30,17,High,Irrigate lightly
+117,"41.8781, -87.6298",405,Wheat,235.0,47.0,26,26,Medium,Irrigate lightly
+118,"40.7128, -74.0060",467,Corn,197.0,58.0,24,21,Low,Increase water monitoring
+119,"41.8781, -87.6298",495,Barley,167.0,34.0,21,17,High,Irrigate lightly
+120,"40.7128, -74.0060",561,Rice,263.0,51.0,20,17,Low,Increase irrigation
+121,"41.8781, -87.6298",425,Barley,127.0,34.0,30,36,Medium,Monitor soil moisture
+122,"34.0522, -118.2437",350,Corn,122.0,40.0,10,38,High,Monitor soil moisture
+123,"41.8781, -87.6298",149,Soy,108.0,42.0,41,11,High,Irrigate as needed
+124,"29.7604, -95.3698",118,Rice,263.0,38.0,36,20,Low,Increase irrigation
+125,"36.7783, -119.4179",423,Soy,148.0,34.0,29,23,High,Increase water monitoring
+126,"40.7128, -74.0060",573,Wheat,180.0,55.0,35,35,High,Monitor soil moisture
+127,"36.7783, -119.4179",541,Soy,167.0,47.0,31,39,High,Irrigate as needed
+128,"40.7128, -74.0060",324,Wheat,214.0,50.0,45,16,High,Increase water monitoring
+129,"36.7783, -119.4179",428,Soy,161.0,31.0,14,14,High,Irrigate as needed
+130,"29.7604, -95.3698",184,Corn,178.0,59.0,19,16,Medium,Irrigate as needed
+131,"41.8781, -87.6298",324,Soy,233.0,37.0,16,37,Medium,Irrigate lightly
+132,"29.7604, -95.3698",366,Rice,231.0,33.0,34,34,High,Irrigate as needed
+133,"36.7783, -119.4179",235,Rice,268.0,49.0,40,10,Low,Monitor soil moisture
+134,"34.0522, -118.2437",195,Wheat,189.0,51.0,37,17,High,Increase water monitoring
+135,"40.7128, -74.0060",198,Wheat,154.0,45.0,26,30,Medium,Increase water monitoring
+136,"41.8781, -87.6298",483,Corn,193.0,45.0,43,18,Low,Irrigate lightly
+137,"29.7604, -95.3698",382,Corn,298.0,59.0,43,19,High,Increase water monitoring
+138,"40.7128, -74.0060",551,Soy,152.0,36.0,41,21,Low,Irrigate lightly
+139,"41.8781, -87.6298",561,Soy,149.0,59.0,25,17,Low,Increase irrigation
+140,"34.0522, -118.2437",Unknown,Wheat,153.0,53.0,12,29,Medium,Monitor soil moisture
+141,"40.7128, -74.0060",358,Corn,266.0,49.0,20,26,Low,Irrigate lightly
+142,"40.7128, -74.0060",302,Wheat,138.0,55.0,32,31,Medium,Irrigate as needed
+143,"36.7783, -119.4179",Unknown,Barley,288.0,48.0,13,13,Low,Increase water monitoring
+144,"29.7604, -95.3698",545,Soy,264.0,31.0,43,14,High,Increase water monitoring
+145,"36.7783, -119.4179",275,Wheat,284.0,48.0,47,23,Low,Increase water monitoring
+146,"41.8781, -87.6298",445,Barley,290.0,,42,33,High,Increase irrigation
+147,"34.0522, -118.2437",513,Rice,105.0,57.0,26,17,High,Increase water monitoring
+148,"29.7604, -95.3698",299,Rice,295.0,36.0,N/A,23,Medium,Increase irrigation
+149,"40.7128, -74.0060",228,Soy,271.0,43.0,26,37,High,Increase irrigation
+150,"29.7604, -95.3698",178,Soy,208.0,33.0,13,39,Medium,Irrigate lightly
+151,"40.7128, -74.0060",539,Soy,135.0,43.0,41,33,Low,Increase water monitoring
+152,"40.7128, -74.0060",186,Barley,174.0,54.0,28,23,Medium,Increase water monitoring
+153,"36.7783, -119.4179",362,Soy,128.0,37.0,26,29,Medium,Irrigate lightly
+154,"36.7783, -119.4179",288,Soy,232.0,36.0,16,24,Medium,Irrigate as needed
+155,"36.7783, -119.4179",210,Soy,277.0,43.0,23,37,Low,Monitor soil moisture
+156,"40.7128, -74.0060",173,Corn,240.0,37.0,36,18,Low,Monitor soil moisture
+157,"36.7783, -119.4179",541,Barley,298.0,30.0,34,19,High,Irrigate as needed
+158,"40.7128, -74.0060",334,Wheat,278.0,34.0,14,37,High,Irrigate as needed
+159,"29.7604, -95.3698",544,Corn,270.0,,44,16,Medium,Irrigate as needed
+160,"29.7604, -95.3698",161,Barley,246.0,39.0,42,30,Medium,Monitor soil moisture
+161,"34.0522, -118.2437",451,Wheat,198.0,52.0,30,30,Low,Increase irrigation
+162,"40.7128, -74.0060",429,Corn,123.0,34.0,N/A,19,High,Increase water monitoring
+163,"29.7604, -95.3698",244,Corn,153.0,49.0,11,13,Low,Irrigate lightly
+164,"29.7604, -95.3698",332,Wheat,279.0,52.0,40,32,High,Irrigate lightly
+165,"40.7128, -74.0060",358,Rice,241.0,31.0,27,26,High,Increase water monitoring
+166,"29.7604, -95.3698",403,Wheat,292.0,35.0,17,34,High,Irrigate as needed
+167,"34.0522, -118.2437",390,Soy,277.0,52.0,18,28,Medium,Irrigate lightly
+168,"41.8781, -87.6298",277,Wheat,160.0,37.0,48,17,Low,Increase irrigation
+169,"36.7783, -119.4179",488,Soy,189.0,33.0,18,32,Medium,Monitor soil moisture
+170,"36.7783, -119.4179",436,Corn,174.0,52.0,25,31,Low,Irrigate lightly
+171,"36.7783, -119.4179",160,Barley,181.0,30.0,29,38,Medium,Increase irrigation
+172,"41.8781, -87.6298",501,Wheat,231.0,57.0,16,29,Low,Irrigate lightly
+173,"40.7128, -74.0060",484,Soy,112.0,43.0,48,9999,Medium,Irrigate lightly
+174,"29.7604, -95.3698",585,Soy,123.0,46.0,38,12,Medium,Increase water monitoring
+175,"40.7128, -74.0060",551,Wheat,132.0,50.0,25,20,High,Increase water monitoring
+176,"29.7604, -95.3698",330,Soy,150.0,48.0,24,34,High,Irrigate as needed
+177,"40.7128, -74.0060",328,Soy,151.0,52.0,48,31,High,Monitor soil moisture
+178,"41.8781, -87.6298",314,Barley,204.0,51.0,30,17,Medium,Monitor soil moisture
+179,"40.7128, -74.0060",463,Soy,238.0,47.0,41,28,Low,Irrigate lightly
+180,"29.7604, -95.3698",168,Corn,173.0,44.0,43,38,Low,Irrigate lightly
+181,"41.8781, -87.6298",199,Soy,280.0,49.0,17,20,High,Increase irrigation
+182,"41.8781, -87.6298",132,Soy,270.0,57.0,12,19,Medium,Increase water monitoring
+183,"40.7128, -74.0060",191,Barley,121.0,49.0,35,29,Low,Increase irrigation
+184,"41.8781, -87.6298",486,Corn,283.0,31.0,10,16,Medium,Irrigate lightly
+185,"40.7128, -74.0060",174,Soy,170.0,55.0,41,13,High,Irrigate lightly
+186,"29.7604, -95.3698",235,Rice,226.0,35.0,31,39,High,Monitor soil moisture
+187,"36.7783, -119.4179",280,Corn,269.0,33.0,49,37,Medium,Monitor soil moisture
+188,"40.7128, -74.0060",377,Rice,109.0,52.0,38,25,Low,Increase water monitoring
+189,"29.7604, -95.3698",327,Soy,213.0,35.0,10,12,Low,Irrigate as needed
+190,"36.7783, -119.4179",200,Soy,207.0,54.0,30,26,Medium,Irrigate as needed
+191,"29.7604, -95.3698",409,Soy,122.0,39.0,46,26,High,Monitor soil moisture
+192,"40.7128, -74.0060",424,Soy,252.0,49.0,24,23,High,Increase irrigation
+193,"41.8781, -87.6298",465,Corn,286.0,41.0,35,12,High,Monitor soil moisture
+194,"36.7783, -119.4179",447,Wheat,139.0,51.0,39,13,High,Irrigate lightly
+195,"40.7128, -74.0060",372,Soy,175.0,39.0,44,33,High,Irrigate lightly
+196,"40.7128, -74.0060",402,Wheat,295.0,45.0,43,27,High,Irrigate lightly
+197,"36.7783, -119.4179",320,Barley,170.0,48.0,45,15,Medium,Increase irrigation
+198,"29.7604, -95.3698",102,Soy,223.0,43.0,15,39,Medium,Monitor soil moisture
+199,"36.7783, -119.4179",502,Barley,287.0,30.0,43,28,High,Irrigate lightly
+200,"29.7604, -95.3698",519,Soy,284.0,41.0,47,39,Medium,Irrigate lightly
+201,"41.8781, -87.6298",350,Barley,114.0,56.0,25,29,Low,Increase irrigation
+202,"36.7783, -119.4179",575,Rice,242.0,57.0,38,11,High,Irrigate lightly
+203,"41.8781, -87.6298",452,Wheat,121.0,42.0,35,10,Low,Irrigate lightly
+204,"34.0522, -118.2437",594,Corn,213.0,47.0,16,30,Medium,Increase water monitoring
+205,"29.7604, -95.3698",Unknown,Soy,239.0,34.0,37,32,Medium,Increase water monitoring
+206,"29.7604, -95.3698",201,Barley,263.0,59.0,41,16,Medium,Increase irrigation
+207,"36.7783, -119.4179",514,Barley,226.0,57.0,11,15,Medium,Irrigate lightly
+208,"40.7128, -74.0060",554,Soy,132.0,47.0,34,23,High,Increase irrigation
+209,"36.7783, -119.4179",244,Soy,168.0,36.0,10,37,High,Increase irrigation
+210,"29.7604, -95.3698",151,Rice,177.0,34.0,15,10,High,Irrigate lightly
+211,"36.7783, -119.4179",400,Soy,138.0,36.0,13,13,High,Irrigate as needed
+212,"29.7604, -95.3698",187,Wheat,246.0,45.0,44,32,Medium,Increase water monitoring
+213,"34.0522, -118.2437",378,Soy,112.0,40.0,32,28,Low,Monitor soil moisture
+214,"34.0522, -118.2437",152,Rice,190.0,39.0,32,9999,Low,Irrigate lightly
+215,"29.7604, -95.3698",113,Corn,277.0,58.0,47,27,High,Irrigate as needed
+216,"36.7783, -119.4179",296,Soy,165.0,38.0,39,27,High,Increase water monitoring
+217,"36.7783, -119.4179",246,Soy,192.0,57.0,11,18,Medium,Irrigate lightly
+218,"29.7604, -95.3698",159,Rice,217.0,33.0,46,38,High,Irrigate lightly
+219,"36.7783, -119.4179",383,Rice,273.0,46.0,31,29,High,Increase water monitoring
+220,"29.7604, -95.3698",500,Corn,113.0,39.0,48,24,Medium,Irrigate lightly
+221,"34.0522, -118.2437",263,Wheat,251.0,47.0,38,39,Medium,Irrigate lightly
+222,"36.7783, -119.4179",571,Soy,,,32,19,Low,Irrigate lightly
+223,"40.7128, -74.0060",309,Soy,243.0,,21,34,Medium,Increase water monitoring
+224,"41.8781, -87.6298",271,Rice,167.0,38.0,34,10,Medium,Irrigate as needed
+225,"29.7604, -95.3698",585,Soy,229.0,56.0,13,19,Low,Increase irrigation
+226,"29.7604, -95.3698",564,Corn,227.0,40.0,38,30,Medium,Irrigate as needed
+227,"34.0522, -118.2437",390,Corn,,32.0,38,27,High,Monitor soil moisture
+228,"36.7783, -119.4179",513,Barley,201.0,56.0,18,12,Medium,Increase irrigation
+229,"36.7783, -119.4179",597,Barley,154.0,40.0,15,27,High,Increase irrigation
+230,"29.7604, -95.3698",365,Rice,238.0,37.0,36,31,Low,Increase water monitoring
+231,"40.7128, -74.0060",271,Corn,213.0,36.0,23,18,Low,Increase water monitoring
+232,"41.8781, -87.6298",242,Soy,279.0,37.0,20,22,High,Irrigate as needed
+233,"40.7128, -74.0060",544,Wheat,272.0,45.0,35,27,Medium,Irrigate lightly
+234,"29.7604, -95.3698",298,Barley,176.0,38.0,34,24,High,Increase irrigation
+235,"29.7604, -95.3698",589,Barley,189.0,42.0,48,32,Low,Irrigate lightly
+236,"40.7128, -74.0060",286,Soy,106.0,35.0,29,18,Medium,Increase water monitoring
+237,"41.8781, -87.6298",344,Wheat,218.0,32.0,48,25,High,Irrigate as needed
+238,"40.7128, -74.0060",344,Soy,110.0,58.0,21,28,Low,Monitor soil moisture
+239,"36.7783, -119.4179",543,Rice,179.0,43.0,30,29,High,Irrigate lightly
+240,"34.0522, -118.2437",361,Corn,235.0,45.0,34,13,Medium,Irrigate as needed
+241,"40.7128, -74.0060",514,Rice,282.0,55.0,35,18,Low,Increase water monitoring
+242,"41.8781, -87.6298",267,Corn,109.0,53.0,33,38,Low,Monitor soil moisture
+243,"36.7783, -119.4179",577,Soy,142.0,34.0,19,20,Medium,Irrigate as needed
+244,"29.7604, -95.3698",170,Wheat,140.0,32.0,25,37,Low,Irrigate lightly
+245,"41.8781, -87.6298",277,Rice,286.0,53.0,38,20,Medium,Irrigate lightly
+246,"36.7783, -119.4179",304,Barley,244.0,38.0,16,34,High,Increase water monitoring
+247,"34.0522, -118.2437",109,Soy,156.0,31.0,N/A,27,Low,Irrigate lightly
+248,"29.7604, -95.3698",534,Rice,109.0,43.0,30,22,High,Irrigate lightly
+249,"29.7604, -95.3698",464,Barley,281.0,43.0,21,26,Medium,Increase water monitoring
+250,"40.7128, -74.0060",374,Rice,290.0,32.0,43,37,Medium,Increase irrigation
+251,"34.0522, -118.2437",310,Rice,262.0,33.0,37,28,Medium,Monitor soil moisture
+252,"40.7128, -74.0060",319,Rice,117.0,40.0,37,13,High,Increase water monitoring
+253,"29.7604, -95.3698",228,Wheat,260.0,32.0,33,20,High,Increase irrigation
+254,"40.7128, -74.0060",571,Rice,175.0,,N/A,18,High,Monitor soil moisture
+255,"34.0522, -118.2437",121,Barley,160.0,38.0,27,15,High,Irrigate as needed
+256,"29.7604, -95.3698",155,Corn,182.0,33.0,49,30,Low,Monitor soil moisture
+257,"41.8781, -87.6298",472,Soy,126.0,37.0,11,18,Low,Irrigate lightly
+258,"40.7128, -74.0060",223,Wheat,220.0,30.0,44,30,Low,Irrigate as needed
+259,"36.7783, -119.4179",354,Corn,292.0,37.0,17,13,Medium,Irrigate as needed
+260,"29.7604, -95.3698",235,Corn,195.0,37.0,46,19,Low,Irrigate lightly
+261,"29.7604, -95.3698",168,Soy,201.0,43.0,42,26,Low,Irrigate as needed
+262,"41.8781, -87.6298",551,Barley,175.0,53.0,29,23,Medium,Irrigate as needed
+263,"41.8781, -87.6298",267,Wheat,220.0,32.0,32,33,Low,Increase water monitoring
+264,"34.0522, -118.2437",492,Wheat,242.0,51.0,19,28,High,Monitor soil moisture
+265,"41.8781, -87.6298",245,Soy,141.0,39.0,48,26,Low,Irrigate lightly
+266,"41.8781, -87.6298",523,Barley,264.0,50.0,41,17,High,Increase water monitoring
+267,"29.7604, -95.3698",319,Barley,221.0,42.0,23,36,Medium,Irrigate as needed
+268,"36.7783, -119.4179",374,Corn,176.0,41.0,19,15,High,Monitor soil moisture
+269,"34.0522, -118.2437",530,Rice,129.0,33.0,47,23,Low,Irrigate lightly
+270,"34.0522, -118.2437",573,Barley,114.0,43.0,47,23,High,Monitor soil moisture
+271,"41.8781, -87.6298",596,Wheat,117.0,30.0,18,37,Low,Monitor soil moisture
+272,"40.7128, -74.0060",438,Rice,113.0,30.0,10,29,Medium,Increase water monitoring
+273,"40.7128, -74.0060",596,Corn,299.0,58.0,40,22,Medium,Increase water monitoring
+274,"36.7783, -119.4179",543,Soy,239.0,57.0,28,29,High,Increase irrigation
+275,"29.7604, -95.3698",285,Rice,172.0,42.0,41,38,Medium,Increase irrigation
+276,"34.0522, -118.2437",150,Rice,223.0,46.0,20,39,Low,Irrigate as needed
+277,"40.7128, -74.0060",560,Wheat,241.0,44.0,34,23,High,Irrigate lightly
+278,"40.7128, -74.0060",262,Wheat,121.0,40.0,18,27,Low,Increase water monitoring
+279,"41.8781, -87.6298",482,Corn,209.0,38.0,44,26,Low,Irrigate lightly
+280,"34.0522, -118.2437",181,Barley,197.0,30.0,N/A,20,High,Monitor soil moisture
+281,"41.8781, -87.6298",482,Corn,239.0,46.0,49,25,Medium,Increase water monitoring
+282,"36.7783, -119.4179",421,Wheat,282.0,33.0,41,10,Low,Irrigate as needed
+283,"41.8781, -87.6298",231,Barley,176.0,54.0,14,31,High,Monitor soil moisture
+284,"29.7604, -95.3698",126,Soy,169.0,41.0,30,19,Medium,Monitor soil moisture
+285,"29.7604, -95.3698",280,Soy,201.0,46.0,30,27,Low,Monitor soil moisture
+286,"40.7128, -74.0060",365,Soy,295.0,37.0,13,16,High,Monitor soil moisture
+287,"36.7783, -119.4179",186,Rice,267.0,33.0,22,16,Medium,Irrigate lightly
+288,"41.8781, -87.6298",283,Corn,171.0,31.0,27,33,Medium,Irrigate lightly
+289,"29.7604, -95.3698",414,Corn,106.0,46.0,43,23,Medium,Increase water monitoring
+290,"40.7128, -74.0060",143,Barley,,41.0,21,17,Medium,Irrigate as needed
+291,"29.7604, -95.3698",269,Soy,189.0,30.0,N/A,39,Low,Monitor soil moisture
+292,"36.7783, -119.4179",579,Wheat,166.0,32.0,24,29,Medium,Increase water monitoring
+293,"36.7783, -119.4179",358,Rice,130.0,56.0,32,11,Low,Increase irrigation
+294,"36.7783, -119.4179",215,Barley,107.0,57.0,20,33,Medium,Increase water monitoring
+295,"36.7783, -119.4179",159,Wheat,254.0,36.0,26,33,Low,Increase irrigation
+296,"34.0522, -118.2437",126,Barley,263.0,45.0,36,39,Low,Irrigate as needed
+297,"29.7604, -95.3698",251,Corn,162.0,56.0,29,15,Low,Irrigate as needed
+298,"34.0522, -118.2437",339,Soy,190.0,40.0,10,38,High,Monitor soil moisture
+299,"41.8781, -87.6298",417,Corn,141.0,30.0,35,24,Medium,Irrigate lightly
+300,"34.0522, -118.2437",462,Soy,178.0,54.0,29,30,Low,Monitor soil moisture
+301,"40.7128, -74.0060",393,Wheat,285.0,36.0,22,30,Medium,Increase irrigation
+302,"40.7128, -74.0060",281,Rice,206.0,52.0,15,26,High,Irrigate as needed
+303,"41.8781, -87.6298",445,Soy,296.0,53.0,37,36,Medium,Increase water monitoring
+304,"29.7604, -95.3698",174,Wheat,213.0,57.0,38,38,Medium,Increase irrigation
+305,"34.0522, -118.2437",469,Wheat,120.0,46.0,12,16,Low,Increase irrigation
+306,"34.0522, -118.2437",565,Barley,131.0,50.0,49,37,High,Increase irrigation
+307,"40.7128, -74.0060",383,Barley,158.0,41.0,23,12,Low,Increase irrigation
+308,"36.7783, -119.4179",425,Soy,195.0,44.0,20,16,Low,Monitor soil moisture
+309,"40.7128, -74.0060",488,Rice,232.0,50.0,45,38,High,Irrigate lightly
+310,"40.7128, -74.0060",413,Rice,122.0,58.0,21,26,High,Irrigate as needed
+311,"36.7783, -119.4179",231,Corn,108.0,46.0,13,11,High,Monitor soil moisture
+312,"41.8781, -87.6298",267,Soy,215.0,39.0,21,18,Low,Monitor soil moisture
+313,"41.8781, -87.6298",514,Barley,232.0,45.0,20,28,Low,Irrigate as needed
+314,"29.7604, -95.3698",560,Soy,231.0,59.0,25,11,Low,Irrigate lightly
+315,"34.0522, -118.2437",489,Rice,106.0,41.0,46,25,Medium,Increase irrigation
+316,"29.7604, -95.3698",450,Barley,146.0,36.0,20,12,Medium,Irrigate lightly
+317,"34.0522, -118.2437",242,Wheat,202.0,57.0,40,27,Low,Increase water monitoring
+318,"34.0522, -118.2437",592,Soy,183.0,52.0,19,25,High,Irrigate lightly
+319,"36.7783, -119.4179",283,Soy,137.0,55.0,20,36,High,Monitor soil moisture
+320,"29.7604, -95.3698",475,Corn,246.0,,30,13,High,Irrigate lightly
+321,"36.7783, -119.4179",415,Soy,252.0,39.0,28,26,Medium,Irrigate lightly
+322,"34.0522, -118.2437",596,Wheat,165.0,48.0,14,12,Medium,Irrigate lightly
+323,"34.0522, -118.2437",328,Rice,298.0,43.0,11,31,Low,Monitor soil moisture
+324,"36.7783, -119.4179",Unknown,Soy,154.0,49.0,13,14,Low,Increase water monitoring
+325,"34.0522, -118.2437",393,Barley,179.0,37.0,46,20,Low,Irrigate as needed
+326,"29.7604, -95.3698",546,Corn,165.0,36.0,28,27,Low,Irrigate as needed
+327,"29.7604, -95.3698",547,Soy,220.0,57.0,30,31,High,Monitor soil moisture
+328,"29.7604, -95.3698",401,Barley,127.0,44.0,24,21,Low,Irrigate as needed
+329,"41.8781, -87.6298",168,Soy,278.0,53.0,12,22,Low,Irrigate lightly
+330,"40.7128, -74.0060",396,Soy,274.0,33.0,28,24,Medium,Increase water monitoring
+331,"29.7604, -95.3698",230,Barley,268.0,48.0,19,21,Low,Monitor soil moisture
+332,"41.8781, -87.6298",543,Rice,122.0,40.0,19,32,High,Increase water monitoring
+333,"40.7128, -74.0060",427,Wheat,190.0,34.0,39,22,Low,Irrigate as needed
+334,"34.0522, -118.2437",107,Corn,113.0,52.0,19,28,Medium,Increase water monitoring
+335,"40.7128, -74.0060",253,Corn,155.0,44.0,32,39,High,Irrigate lightly
+336,"36.7783, -119.4179",147,Soy,102.0,56.0,44,33,Medium,Increase water monitoring
+337,"41.8781, -87.6298",559,Barley,192.0,59.0,46,12,Low,Irrigate lightly
+338,"29.7604, -95.3698",577,Wheat,200.0,57.0,27,19,High,Irrigate lightly
+339,"36.7783, -119.4179",518,Soy,263.0,37.0,20,34,Medium,Irrigate lightly
+340,"40.7128, -74.0060",327,Soy,256.0,38.0,47,37,Low,Irrigate as needed
+341,"41.8781, -87.6298",537,Soy,195.0,52.0,11,27,Low,Increase irrigation
+342,"40.7128, -74.0060",512,Corn,258.0,38.0,13,18,Medium,Increase water monitoring
+343,"36.7783, -119.4179",283,Corn,130.0,53.0,29,33,High,Irrigate as needed
+344,"41.8781, -87.6298",444,Wheat,104.0,47.0,33,25,Medium,Monitor soil moisture
+345,"36.7783, -119.4179",284,Wheat,201.0,52.0,21,15,Low,Irrigate lightly
+346,"34.0522, -118.2437",286,Corn,104.0,45.0,45,12,Medium,Irrigate lightly
+347,"34.0522, -118.2437",501,Wheat,113.0,35.0,11,29,Low,Increase water monitoring
+348,"36.7783, -119.4179",438,Wheat,226.0,57.0,49,14,Medium,Irrigate lightly
+349,"41.8781, -87.6298",578,Corn,218.0,35.0,44,21,Low,Monitor soil moisture
+350,"36.7783, -119.4179",246,Rice,209.0,39.0,27,26,High,Increase water monitoring
+351,"41.8781, -87.6298",562,Wheat,152.0,38.0,35,16,Medium,Monitor soil moisture
+352,"41.8781, -87.6298",429,Soy,248.0,32.0,31,22,Low,Irrigate as needed
+353,"29.7604, -95.3698",107,Corn,200.0,48.0,20,25,High,Increase water monitoring
+354,"34.0522, -118.2437",562,Rice,,50.0,25,12,Medium,Increase water monitoring
+355,"40.7128, -74.0060",491,Rice,268.0,41.0,30,38,Low,Irrigate lightly
+356,"41.8781, -87.6298",539,Soy,154.0,34.0,23,33,High,Irrigate as needed
+357,"29.7604, -95.3698",307,Rice,236.0,50.0,11,16,Low,Increase water monitoring
+358,"36.7783, -119.4179",489,Barley,252.0,58.0,15,26,Medium,Monitor soil moisture
+359,"36.7783, -119.4179",422,Rice,285.0,59.0,28,18,Medium,Increase water monitoring
+360,"29.7604, -95.3698",424,Barley,227.0,39.0,36,35,High,Monitor soil moisture
+361,"41.8781, -87.6298",323,Corn,259.0,34.0,35,21,Medium,Monitor soil moisture
+362,"29.7604, -95.3698",581,Barley,,33.0,33,10,Medium,Monitor soil moisture
+363,"41.8781, -87.6298",102,Wheat,231.0,46.0,14,29,High,Irrigate lightly
+364,"29.7604, -95.3698",476,Soy,122.0,59.0,45,25,Low,Increase irrigation
+365,"40.7128, -74.0060",566,Rice,238.0,59.0,12,16,High,Monitor soil moisture
+366,"34.0522, -118.2437",301,Barley,209.0,56.0,44,24,Medium,Increase irrigation
+367,"36.7783, -119.4179",273,Wheat,293.0,38.0,44,33,Medium,Increase irrigation
+368,"29.7604, -95.3698",516,Rice,112.0,34.0,42,23,Low,Irrigate lightly
+369,"29.7604, -95.3698",139,Barley,270.0,44.0,38,22,Medium,Irrigate as needed
+370,"34.0522, -118.2437",190,Rice,229.0,39.0,11,14,Medium,Increase irrigation
+371,"36.7783, -119.4179",476,Corn,258.0,59.0,21,37,Medium,Irrigate lightly
+372,"29.7604, -95.3698",550,Wheat,218.0,37.0,37,14,Low,Irrigate as needed
+373,"40.7128, -74.0060",411,Soy,126.0,30.0,32,14,Medium,Increase irrigation
+374,"36.7783, -119.4179",123,Corn,169.0,53.0,47,35,Medium,Increase irrigation
+375,"29.7604, -95.3698",494,Barley,271.0,50.0,15,23,High,Irrigate as needed
+376,"36.7783, -119.4179",180,Corn,243.0,37.0,42,27,Low,Irrigate as needed
+377,"41.8781, -87.6298",571,Barley,152.0,45.0,23,18,High,Increase water monitoring
+378,"29.7604, -95.3698",329,Soy,127.0,34.0,13,36,Medium,Monitor soil moisture
+379,"29.7604, -95.3698",521,Barley,284.0,59.0,37,29,Medium,Increase irrigation
+380,"41.8781, -87.6298",141,Wheat,227.0,48.0,48,34,High,Irrigate as needed
+381,"29.7604, -95.3698",403,Corn,231.0,49.0,12,26,High,Increase irrigation
+382,"34.0522, -118.2437",537,Wheat,168.0,33.0,49,25,High,Irrigate as needed
+383,"41.8781, -87.6298",594,Rice,120.0,,27,27,Low,Monitor soil moisture
+384,"40.7128, -74.0060",532,Barley,174.0,41.0,29,36,Medium,Irrigate as needed
+385,"40.7128, -74.0060",387,Corn,101.0,48.0,48,19,Low,Monitor soil moisture
+386,"29.7604, -95.3698",500,Wheat,181.0,34.0,43,30,High,Monitor soil moisture
+387,"34.0522, -118.2437",468,Soy,,51.0,30,16,Low,Increase water monitoring
+388,"41.8781, -87.6298",128,Wheat,162.0,59.0,38,13,Low,Irrigate lightly
+389,"40.7128, -74.0060",374,Soy,111.0,48.0,30,19,Medium,Increase water monitoring
+390,"36.7783, -119.4179",Unknown,Soy,240.0,48.0,26,11,High,Irrigate lightly
+391,"41.8781, -87.6298",366,Soy,131.0,44.0,45,37,High,Increase water monitoring
+392,"36.7783, -119.4179",205,Barley,193.0,46.0,31,26,Low,Irrigate as needed
+393,"36.7783, -119.4179",126,Corn,291.0,50.0,22,20,High,Irrigate as needed
+394,"41.8781, -87.6298",573,Soy,216.0,56.0,46,16,High,Increase irrigation
+395,"29.7604, -95.3698",417,Soy,132.0,55.0,32,36,High,Increase water monitoring
+396,"36.7783, -119.4179",279,Soy,219.0,53.0,38,23,Low,Monitor soil moisture
+397,"29.7604, -95.3698",362,Barley,123.0,42.0,33,37,High,Irrigate lightly
+398,"34.0522, -118.2437",563,Corn,293.0,50.0,44,28,High,Irrigate lightly
+399,"34.0522, -118.2437",270,Rice,162.0,42.0,44,38,Medium,Monitor soil moisture
+400,"34.0522, -118.2437",103,Rice,170.0,48.0,21,25,Medium,Increase irrigation
+401,"29.7604, -95.3698",190,Soy,157.0,31.0,25,32,Low,Monitor soil moisture
+402,"36.7783, -119.4179",557,Barley,223.0,59.0,46,26,High,Irrigate as needed
+403,"36.7783, -119.4179",265,Rice,153.0,41.0,27,38,Medium,Monitor soil moisture
+404,"40.7128, -74.0060",186,Wheat,154.0,33.0,27,39,Low,Increase water monitoring
+405,"41.8781, -87.6298",268,Barley,272.0,45.0,28,23,Low,Increase water monitoring
+406,"36.7783, -119.4179",530,Rice,269.0,35.0,22,23,High,Irrigate lightly
+407,"41.8781, -87.6298",506,Barley,151.0,51.0,40,29,High,Increase water monitoring
+408,"36.7783, -119.4179",109,Corn,174.0,35.0,21,22,High,Irrigate lightly
+409,"41.8781, -87.6298",253,Barley,,36.0,37,31,High,Increase irrigation
+410,"29.7604, -95.3698",345,Rice,152.0,55.0,45,20,High,Monitor soil moisture
+411,"34.0522, -118.2437",496,Soy,100.0,43.0,32,37,Low,Increase irrigation
+412,"41.8781, -87.6298",596,Wheat,194.0,40.0,12,29,High,Monitor soil moisture
+413,"34.0522, -118.2437",361,Corn,247.0,31.0,30,31,Low,Increase water monitoring
+414,"34.0522, -118.2437",153,Soy,,48.0,48,26,High,Irrigate as needed
+415,"34.0522, -118.2437",416,Soy,264.0,39.0,43,34,Low,Increase irrigation
+416,"29.7604, -95.3698",408,Soy,156.0,37.0,13,39,High,Monitor soil moisture
+417,"34.0522, -118.2437",266,Soy,209.0,52.0,11,27,High,Irrigate lightly
+418,"29.7604, -95.3698",295,Barley,141.0,32.0,28,32,High,Irrigate lightly
+419,"40.7128, -74.0060",506,Corn,100.0,39.0,44,30,Low,Increase water monitoring
+420,"29.7604, -95.3698",376,Barley,183.0,42.0,28,38,Low,Increase water monitoring
+421,"34.0522, -118.2437",313,Soy,119.0,56.0,21,9999,Low,Monitor soil moisture
+422,"34.0522, -118.2437",105,Wheat,289.0,34.0,23,16,Low,Irrigate lightly
+423,"41.8781, -87.6298",394,Corn,267.0,35.0,33,9999,Medium,Irrigate as needed
+424,"40.7128, -74.0060",352,Rice,144.0,56.0,46,13,Medium,Monitor soil moisture
+425,"36.7783, -119.4179",548,Corn,268.0,37.0,43,24,High,Irrigate lightly
+426,"40.7128, -74.0060",331,Wheat,170.0,46.0,28,39,High,Increase water monitoring
+427,"36.7783, -119.4179",586,Soy,200.0,31.0,27,17,Low,Irrigate as needed
+428,"34.0522, -118.2437",483,Wheat,227.0,43.0,36,16,Medium,Increase irrigation
+429,"29.7604, -95.3698",186,Barley,126.0,30.0,12,24,Medium,Increase irrigation
+430,"41.8781, -87.6298",335,Corn,210.0,53.0,21,31,Medium,Increase water monitoring
+431,"36.7783, -119.4179",174,Corn,114.0,55.0,16,10,High,Monitor soil moisture
+432,"36.7783, -119.4179",184,Barley,288.0,47.0,37,38,Low,Increase irrigation
+433,"36.7783, -119.4179",541,Wheat,134.0,48.0,15,17,High,Monitor soil moisture
+434,"36.7783, -119.4179",527,Wheat,261.0,32.0,18,36,Medium,Irrigate lightly
+435,"29.7604, -95.3698",541,Wheat,236.0,36.0,19,38,Low,Irrigate lightly
+436,"36.7783, -119.4179",132,Soy,283.0,46.0,36,34,Low,Monitor soil moisture
+437,"41.8781, -87.6298",207,Corn,203.0,40.0,21,22,High,Increase water monitoring
+438,"36.7783, -119.4179",125,Rice,179.0,39.0,N/A,13,Medium,Increase irrigation
+439,"34.0522, -118.2437",519,Rice,240.0,34.0,16,26,High,Increase water monitoring
+440,"40.7128, -74.0060",184,Rice,292.0,33.0,48,28,Low,Increase irrigation
+441,"34.0522, -118.2437",424,Rice,154.0,50.0,32,25,High,Increase irrigation
+442,"34.0522, -118.2437",407,Rice,161.0,43.0,46,34,Medium,Irrigate lightly
+443,"41.8781, -87.6298",373,Wheat,102.0,58.0,29,12,Low,Increase irrigation
+444,"34.0522, -118.2437",116,Rice,139.0,42.0,37,14,Low,Increase irrigation
+445,"40.7128, -74.0060",578,Barley,170.0,34.0,39,39,Medium,Monitor soil moisture
+446,"36.7783, -119.4179",151,Corn,269.0,34.0,18,32,Low,Increase irrigation
+447,"40.7128, -74.0060",345,Wheat,289.0,54.0,15,39,Medium,Irrigate lightly
+448,"40.7128, -74.0060",327,Barley,197.0,40.0,26,29,Medium,Monitor soil moisture
+449,"41.8781, -87.6298",219,Corn,282.0,45.0,46,10,Low,Irrigate as needed
+450,"40.7128, -74.0060",542,Rice,144.0,53.0,23,38,High,Irrigate as needed
+451,"40.7128, -74.0060",492,Wheat,251.0,32.0,20,22,Medium,Monitor soil moisture
+452,"34.0522, -118.2437",350,Barley,273.0,35.0,25,35,Medium,Increase irrigation
+453,"34.0522, -118.2437",438,Barley,162.0,57.0,26,28,Low,Increase water monitoring
+454,"29.7604, -95.3698",215,Soy,279.0,56.0,45,37,Low,Irrigate lightly
+455,"41.8781, -87.6298",588,Wheat,166.0,43.0,36,34,Low,Increase irrigation
+456,"29.7604, -95.3698",587,Rice,138.0,57.0,24,17,Low,Increase irrigation
+457,"36.7783, -119.4179",230,Wheat,148.0,47.0,44,35,Medium,Irrigate lightly
+458,"40.7128, -74.0060",599,Rice,152.0,44.0,11,39,Low,Irrigate as needed
+459,"36.7783, -119.4179",Unknown,Corn,250.0,36.0,42,26,Medium,Irrigate lightly
+460,"36.7783, -119.4179",552,Barley,202.0,32.0,35,39,Medium,Increase water monitoring
+461,"36.7783, -119.4179",337,Rice,134.0,53.0,37,27,High,Irrigate lightly
+462,"36.7783, -119.4179",132,Soy,192.0,50.0,N/A,25,Medium,Monitor soil moisture
+463,"41.8781, -87.6298",284,Soy,177.0,49.0,15,20,Medium,Increase water monitoring
+464,"40.7128, -74.0060",538,Wheat,292.0,40.0,33,39,High,Irrigate lightly
+465,"40.7128, -74.0060",574,Wheat,281.0,42.0,29,36,Low,Irrigate as needed
+466,"29.7604, -95.3698",426,Soy,153.0,45.0,27,15,High,Increase water monitoring
+467,"29.7604, -95.3698",235,Rice,217.0,40.0,40,19,High,Increase water monitoring
+468,"41.8781, -87.6298",115,Wheat,227.0,44.0,31,13,High,Increase irrigation
+469,"40.7128, -74.0060",508,Wheat,136.0,42.0,12,30,Low,Increase irrigation
+470,"40.7128, -74.0060",363,Barley,265.0,48.0,49,32,Low,Increase water monitoring
+471,"34.0522, -118.2437",459,Barley,290.0,58.0,41,19,Medium,Irrigate lightly
+472,"40.7128, -74.0060",106,Rice,155.0,50.0,33,34,High,Monitor soil moisture
+473,"36.7783, -119.4179",171,Corn,195.0,32.0,39,15,Medium,Monitor soil moisture
+474,"41.8781, -87.6298",153,Corn,280.0,36.0,48,32,High,Irrigate as needed
+475,"41.8781, -87.6298",326,Wheat,213.0,32.0,28,30,Low,Irrigate lightly
+476,"29.7604, -95.3698",476,Soy,251.0,55.0,18,16,Low,Irrigate lightly
+477,"34.0522, -118.2437",105,Barley,,53.0,24,32,High,Increase water monitoring
+478,"41.8781, -87.6298",586,Barley,131.0,53.0,45,35,Low,Irrigate as needed
+479,"29.7604, -95.3698",247,Barley,292.0,56.0,37,23,High,Irrigate as needed
+480,"40.7128, -74.0060",366,Soy,200.0,59.0,37,33,Medium,Irrigate lightly
+481,"41.8781, -87.6298",448,Soy,193.0,58.0,22,34,Medium,Irrigate as needed
+482,"41.8781, -87.6298",185,Soy,291.0,58.0,37,27,High,Monitor soil moisture
+483,"41.8781, -87.6298",226,Corn,150.0,,14,18,Low,Irrigate lightly
+484,"34.0522, -118.2437",140,Corn,180.0,55.0,28,35,High,Irrigate lightly
+485,"36.7783, -119.4179",114,Barley,245.0,52.0,43,35,Medium,Monitor soil moisture
+486,"34.0522, -118.2437",510,Barley,191.0,38.0,20,14,Medium,Increase irrigation
+487,"41.8781, -87.6298",102,Barley,237.0,54.0,37,20,High,Irrigate lightly
+488,"41.8781, -87.6298",551,Soy,288.0,41.0,23,13,Medium,Irrigate as needed
+489,"29.7604, -95.3698",396,Barley,147.0,56.0,41,13,High,Irrigate lightly
+490,"41.8781, -87.6298",287,Barley,243.0,45.0,38,24,Low,Monitor soil moisture
+491,"41.8781, -87.6298",204,Soy,268.0,37.0,21,37,Medium,Increase water monitoring
+492,"29.7604, -95.3698",545,Wheat,161.0,58.0,29,14,High,Irrigate as needed
+493,"29.7604, -95.3698",384,Barley,200.0,34.0,27,36,Medium,Irrigate lightly
+494,"29.7604, -95.3698",109,Wheat,149.0,45.0,31,34,Low,Increase water monitoring
+495,"36.7783, -119.4179",366,Soy,278.0,39.0,38,35,Low,Increase irrigation
+496,"29.7604, -95.3698",306,Wheat,153.0,52.0,12,20,High,Irrigate as needed
+497,"40.7128, -74.0060",218,Soy,184.0,54.0,39,21,Medium,Monitor soil moisture
+498,"36.7783, -119.4179",235,Barley,164.0,33.0,15,24,Medium,Increase water monitoring
+499,"40.7128, -74.0060",337,Barley,286.0,32.0,32,35,High,Irrigate as needed
+500,"34.0522, -118.2437",174,Corn,166.0,59.0,49,31,High,Irrigate as needed
+501,"36.7783, -119.4179",123,Soy,128.0,48.0,34,33,High,Monitor soil moisture
+502,"36.7783, -119.4179",580,Soy,175.0,44.0,24,35,Medium,Increase water monitoring
+503,"36.7783, -119.4179",361,Soy,277.0,48.0,34,12,High,Monitor soil moisture
+504,"34.0522, -118.2437",200,Corn,167.0,31.0,24,14,Low,Monitor soil moisture
+505,"36.7783, -119.4179",192,Rice,196.0,51.0,23,15,Low,Increase irrigation
+506,"36.7783, -119.4179",539,Corn,120.0,,32,37,Medium,Monitor soil moisture
+507,"40.7128, -74.0060",134,Corn,141.0,49.0,45,34,Low,Irrigate lightly
+508,"34.0522, -118.2437",391,Barley,240.0,53.0,N/A,31,Low,Increase irrigation
+509,"29.7604, -95.3698",210,Wheat,256.0,,27,30,Medium,Increase irrigation
+510,"41.8781, -87.6298",486,Soy,227.0,37.0,11,11,Medium,Increase water monitoring
+511,"34.0522, -118.2437",324,Soy,226.0,39.0,38,27,High,Irrigate as needed
+512,"34.0522, -118.2437",213,Soy,271.0,44.0,24,9999,Low,Increase irrigation
+513,"34.0522, -118.2437",162,Wheat,179.0,35.0,23,34,Medium,Increase water monitoring
+514,"29.7604, -95.3698",Unknown,Wheat,260.0,41.0,11,12,Low,Monitor soil moisture
+515,"34.0522, -118.2437",329,Corn,117.0,49.0,15,38,Medium,Irrigate lightly
+516,"34.0522, -118.2437",407,Corn,193.0,37.0,40,23,Low,Irrigate lightly
+517,"40.7128, -74.0060",163,Corn,286.0,36.0,13,11,Medium,Increase irrigation
+518,"34.0522, -118.2437",512,Corn,,31.0,23,17,Medium,Increase water monitoring
+519,"36.7783, -119.4179",172,Wheat,153.0,52.0,21,39,Low,Irrigate as needed
+520,"29.7604, -95.3698",183,Corn,284.0,46.0,27,18,High,Increase irrigation
+521,"36.7783, -119.4179",140,Barley,160.0,51.0,48,21,High,Irrigate as needed
+522,"36.7783, -119.4179",306,Corn,196.0,33.0,20,36,Medium,Increase irrigation
+523,"29.7604, -95.3698",246,Corn,185.0,33.0,17,28,Low,Increase irrigation
+524,"29.7604, -95.3698",101,Barley,176.0,55.0,46,15,Medium,Irrigate as needed
+525,"36.7783, -119.4179",361,Rice,239.0,53.0,14,33,High,Increase water monitoring
+526,"36.7783, -119.4179",439,Wheat,294.0,53.0,16,26,Low,Irrigate lightly
+527,"29.7604, -95.3698",187,Corn,228.0,30.0,18,13,Medium,Irrigate as needed
+528,"36.7783, -119.4179",483,Soy,198.0,55.0,20,14,High,Irrigate lightly
+529,"34.0522, -118.2437",243,Corn,,32.0,42,34,Medium,Increase water monitoring
+530,"36.7783, -119.4179",190,Barley,236.0,31.0,24,27,Low,Irrigate as needed
+531,"34.0522, -118.2437",311,Barley,293.0,50.0,43,15,Low,Increase water monitoring
+532,"34.0522, -118.2437",595,Rice,232.0,50.0,11,39,Medium,Increase water monitoring
+533,"34.0522, -118.2437",119,Barley,195.0,30.0,10,34,High,Increase irrigation
+534,"36.7783, -119.4179",583,Barley,,49.0,48,21,Medium,Irrigate as needed
+535,"41.8781, -87.6298",Unknown,Rice,177.0,59.0,12,12,Low,Irrigate lightly
+536,"41.8781, -87.6298",227,Wheat,179.0,,24,23,Medium,Monitor soil moisture
+537,"41.8781, -87.6298",538,Corn,155.0,41.0,30,30,High,Increase irrigation
+538,"36.7783, -119.4179",379,Wheat,182.0,33.0,35,29,High,Increase irrigation
+539,"41.8781, -87.6298",227,Barley,182.0,31.0,18,14,Medium,Monitor soil moisture
+540,"41.8781, -87.6298",148,Soy,270.0,49.0,12,20,Low,Irrigate as needed
+541,"34.0522, -118.2437",534,Wheat,101.0,31.0,46,15,Medium,Increase irrigation
+542,"36.7783, -119.4179",269,Soy,112.0,32.0,19,30,Low,Increase water monitoring
+543,"29.7604, -95.3698",132,Soy,207.0,54.0,10,10,High,Increase water monitoring
+544,"29.7604, -95.3698",521,Corn,176.0,49.0,19,32,Medium,Irrigate lightly
+545,"40.7128, -74.0060",337,Corn,205.0,41.0,17,24,Medium,Monitor soil moisture
+546,"40.7128, -74.0060",484,Corn,116.0,31.0,24,39,Low,Increase irrigation
+547,"29.7604, -95.3698",216,Rice,257.0,53.0,29,32,Low,Monitor soil moisture
+548,"41.8781, -87.6298",482,Wheat,286.0,37.0,23,21,Low,Irrigate as needed
+549,"41.8781, -87.6298",157,Wheat,160.0,53.0,11,29,High,Irrigate as needed
+550,"41.8781, -87.6298",398,Barley,141.0,39.0,29,20,Low,Irrigate as needed
+551,"29.7604, -95.3698",468,Soy,199.0,57.0,39,13,Low,Increase water monitoring
+552,"41.8781, -87.6298",506,Corn,145.0,36.0,42,10,High,Increase irrigation
+553,"41.8781, -87.6298",440,Rice,,40.0,45,39,Low,Increase water monitoring
+554,"36.7783, -119.4179",189,Barley,158.0,53.0,10,14,Low,Increase water monitoring
+555,"36.7783, -119.4179",196,Barley,152.0,43.0,24,22,Low,Irrigate as needed
+556,"29.7604, -95.3698",460,Rice,268.0,38.0,41,14,Low,Increase water monitoring
+557,"29.7604, -95.3698",344,Barley,196.0,50.0,37,27,Medium,Increase water monitoring
+558,"29.7604, -95.3698",578,Wheat,162.0,40.0,45,37,Medium,Irrigate lightly
+559,"29.7604, -95.3698",460,Rice,150.0,57.0,14,22,High,Irrigate as needed
+560,"36.7783, -119.4179",342,Wheat,190.0,55.0,27,21,High,Monitor soil moisture
+561,"29.7604, -95.3698",311,Soy,155.0,58.0,32,18,Low,Monitor soil moisture
+562,"41.8781, -87.6298",574,Corn,280.0,49.0,23,37,Low,Increase irrigation
+563,"36.7783, -119.4179",457,Wheat,156.0,,16,11,Low,Irrigate as needed
+564,"41.8781, -87.6298",535,Wheat,256.0,32.0,46,28,Low,Irrigate as needed
+565,"36.7783, -119.4179",136,Corn,132.0,39.0,29,35,High,Irrigate lightly
+566,"36.7783, -119.4179",350,Soy,133.0,55.0,40,25,Low,Irrigate as needed
+567,"34.0522, -118.2437",494,Rice,,38.0,46,35,High,Irrigate as needed
+568,"41.8781, -87.6298",594,Soy,183.0,51.0,42,28,Low,Increase water monitoring
+569,"34.0522, -118.2437",395,Barley,289.0,54.0,25,28,Low,Increase irrigation
+570,"29.7604, -95.3698",423,Rice,218.0,43.0,12,27,Low,Irrigate lightly
+571,"34.0522, -118.2437",591,Wheat,231.0,53.0,15,35,Low,Irrigate lightly
+572,"36.7783, -119.4179",283,Corn,138.0,58.0,37,30,Low,Increase water monitoring
+573,"36.7783, -119.4179",181,Wheat,285.0,48.0,12,17,Medium,Irrigate lightly
+574,"34.0522, -118.2437",298,Soy,137.0,55.0,25,30,Medium,Increase irrigation
+575,"34.0522, -118.2437",277,Rice,175.0,59.0,45,20,Low,Irrigate lightly
+576,"29.7604, -95.3698",278,Barley,190.0,45.0,30,37,High,Increase irrigation
+577,"41.8781, -87.6298",476,Soy,,39.0,15,11,Medium,Monitor soil moisture
+578,"34.0522, -118.2437",525,Corn,218.0,51.0,29,22,Medium,Monitor soil moisture
+579,"40.7128, -74.0060",156,Corn,172.0,,30,28,Low,Increase water monitoring
+580,"40.7128, -74.0060",100,Soy,299.0,52.0,29,13,High,Increase irrigation
+581,"34.0522, -118.2437",125,Wheat,,32.0,28,20,Medium,Irrigate as needed
+582,"29.7604, -95.3698",377,Soy,286.0,42.0,40,26,Medium,Irrigate lightly
+583,"34.0522, -118.2437",403,Soy,223.0,34.0,11,28,Low,Irrigate lightly
+584,"40.7128, -74.0060",458,Wheat,135.0,46.0,42,16,Low,Irrigate as needed
+585,"40.7128, -74.0060",125,Wheat,209.0,56.0,23,27,Medium,Monitor soil moisture
+586,"36.7783, -119.4179",170,Corn,155.0,48.0,48,26,High,Monitor soil moisture
+587,"41.8781, -87.6298",168,Rice,193.0,49.0,29,34,High,Increase water monitoring
+588,"29.7604, -95.3698",164,Corn,215.0,,22,11,Low,Irrigate lightly
+589,"34.0522, -118.2437",295,Rice,256.0,45.0,16,39,Medium,Increase water monitoring
+590,"36.7783, -119.4179",478,Soy,237.0,43.0,29,23,Medium,Increase irrigation
+591,"36.7783, -119.4179",321,Soy,135.0,55.0,32,18,Medium,Irrigate lightly
+592,"36.7783, -119.4179",122,Wheat,203.0,59.0,34,35,Medium,Irrigate as needed
+593,"29.7604, -95.3698",351,Rice,124.0,34.0,19,10,Low,Monitor soil moisture
+594,"40.7128, -74.0060",537,Soy,110.0,,12,34,High,Increase water monitoring
+595,"36.7783, -119.4179",286,Wheat,197.0,50.0,47,36,Low,Increase irrigation
+596,"29.7604, -95.3698",Unknown,Corn,110.0,46.0,16,19,Medium,Increase water monitoring
+597,"36.7783, -119.4179",209,Rice,208.0,34.0,35,17,Medium,Increase water monitoring
+598,"41.8781, -87.6298",202,Corn,146.0,31.0,10,31,High,Irrigate lightly
+599,"29.7604, -95.3698",388,Corn,241.0,53.0,38,16,Low,Monitor soil moisture
+600,"29.7604, -95.3698",344,Rice,105.0,36.0,42,19,Medium,Irrigate lightly
+143,"36.7783, -119.4179",Unknown,Barley,288.0,48.0,13,13,Low,Increase water monitoring
+581,"34.0522, -118.2437",125,Wheat,,32.0,28,20,Medium,Irrigate as needed
+429,"29.7604, -95.3698",186,Barley,126.0,30.0,12,24,Medium,Increase irrigation
+265,"41.8781, -87.6298",245,Soy,141.0,39.0,48,26,Low,Irrigate lightly
+528,"36.7783, -119.4179",483,Soy,198.0,55.0,20,14,High,Irrigate lightly
+153,"36.7783, -119.4179",362,Soy,128.0,37.0,26,29,Medium,Irrigate lightly
+280,"34.0522, -118.2437",181,Barley,197.0,30.0,N/A,20,High,Monitor soil moisture
+187,"36.7783, -119.4179",280,Corn,269.0,33.0,49,37,Medium,Monitor soil moisture
+393,"36.7783, -119.4179",126,Corn,291.0,50.0,22,20,High,Irrigate as needed
+324,"36.7783, -119.4179",Unknown,Soy,154.0,49.0,13,14,Low,Increase water monitoring
